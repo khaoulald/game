@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Bangers&display=swap');
+*{
+    font-family: 'Bangers', cursive;
+}
+body{
+    background-image: url("AdobeStock_299848927_Preview.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+h1{
+    color: #FBBF00;
+    margin-top: 20%;
+    font-size: 80px;
+    margin-bottom: -20px;
+    
+}
+#inp{
+    border-radius: 5px;
+    padding-right: 50px;
+    background-color: transparent;
+}
+#btn2{
+    cursor: pointer;
+    border-radius: 5px;
+    color:white ;
+    background-color:black ;
+    width: 80px;
+    border: black;
+    font-size: 17px;
+}
+#khaoula1{
+    color: #4F4F4F;
+    font-size: 20px;
+}
