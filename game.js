@@ -1,7 +1,6 @@
 var btn2 = document.getElementById('btn2');
-var output = document.getElementById('outputtxt');
 var n = Math.floor((Math.random()*100)+1);
-var dd = document.getElementById('attemp');
+var dd = document.getElementById('tmp');
 
 var attemp = 10;
 
