@@ -9,10 +9,10 @@ btn2.addEventListener('click', function(){
     attemp-=1;
     var input = document.getElementById('inp').value;
     if(input==n){
-        if(attemp==1 || attemp==2){
+          if(attemp==9 || attemp==10){
             document.getElementById("khaoula1").innerHTML = "Bravo, vous etes un Génie !!!" ;
         }
-        if(attemp>=3){
+        if(attemp<=8){
             document.getElementById("khaoula1").innerHTML = "Félicitations, vous avez gagné après "+attemp+" tentatives";
         }
     }
